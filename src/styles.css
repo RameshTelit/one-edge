@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+body{font-family: 'Open Sans', sans-serif !important;}
+.auth-page{background-color: #00253c; background-image: url('src/assets/images/background-deathstar.jpg'); background-position:center top; min-height: 100%; padding-top:40px; padding-bottom:40px; background-repeat:no-repeat;}
+.auth-page .card{background:none;}
+.auth-page .card a{text-decoration:none; color:#fff;}
+.auth-page .card-body{padding-bottom:1px;}
+.auth-page .card-footer{padding-top:1px;}
+.auth-page .btn-primary{background-color: #758eab; border:none; font-size:16px;}
+.auth-page .btn-primary:hover{background: #a5b5c8; border-color: #a5b5c8; color:#000}
+.default_powered_by{color:#fff;}
+.default_powered_by img{margin-bottom: -5px; vertical-align: text-bottom;}
+.auth-page .register a{font-size: 26px; padding-top: 10px;}
+	

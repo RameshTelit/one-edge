@@ -1,0 +1,18 @@
+.footer-list{background:linear-gradient(180deg, rgba(9,102,147,1) 0%, rgba(0,0,0,1) 75%); font-family: 'Open Sans', sans-serif;color:#fff; padding-top: 60px; padding-bottom: 60px;}
+.footer-list .list-group-item{background:none; border:none; padding: 7px 5px;}
+.footer-list .list-group-item a{text-decoration:none; font-size: 14px; font-family:'Open Sans', sans-serif; color:#fff;}
+.footer-copy{padding: 14px 25px 10px 25px;}
+.footer-copy .vmidcp{margin-bottom: 0px; padding-top: 12px; line-height:24px;}
+.footer-copy .vmidcp p{margin-bottom: 0px;}
+.footer-copy .vmidsocial{margin-bottom: 0px; padding-top: 4px;}
+.page-header{background: url('src/assets/images/pupzJiF.jpg') center center no-repeat; background-size: cover;     padding-top: 15px;}
+.briefcontent{padding-top:67px; padding-bottom:67px;}
+.maincontent .mb-3{margin-bottom:0px !important;}
+.page-header h1{font-size: 3rem; color:#fff;}
+.page-header p{color:#fff;}
+.maincontent .card{background:#e6e6e6;}
+.maincontent .card-title{font-size: 1.9375rem;}
+.maincontent .card-text{font-size: 1.25rem;}
+.footer-list .ftsitemap{border-right:1px solid;}
+.footer-list .ftsitemap:last-child{border-right:none;}
+.logout a{color:#fff; text-decoration:none;}
